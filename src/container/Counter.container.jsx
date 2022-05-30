@@ -5,7 +5,7 @@ class Counter extends Component {
   render() {
     return (
       <div>
-        <ClickCounter />
+        <ClickCounter name="Ronchi HOC"/>
         <HoverCounter />
       </div>
     );
